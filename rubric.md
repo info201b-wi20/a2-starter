@@ -120,7 +120,7 @@ For full credit, make sure you match variable names **exactly**. Partial credit 
 
 - Create a vector `summary_1_to_100` by passing a vector of the values one through one hundred to your `summarize_vector` function (**2 points**)
 
-## Code clarity (**5 points**)
+## Code clarity ------------------------------------- (**5 points**)
 To earn full points, you must not have any `lintr()` errors. 
 - -1 point for 1 - 2 `lintr` errors
 - -2 points for 3 - 4 `lintr` errors
