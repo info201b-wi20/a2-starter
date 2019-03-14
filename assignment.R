@@ -1,5 +1,4 @@
-# a2-foundational-skills
-
+# A2 foundational skills
 
 # Set up and Defining variables ------------------------------------------------
 
@@ -175,4 +174,3 @@
 
 # Create a vector `summary_1_to_100` by passing a vector of the values one 
 # through one hundred to your `summarize_vector` function 
-

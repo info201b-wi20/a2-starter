@@ -3,7 +3,7 @@ This rubric is intended to help guide expectations and increase transparency. Ho
 
 For full credit, make sure you match variable names **exactly**. Partial credit will be given where appropriate. 
 
-# Set up and Defining variables --------------------------- (**12 points**)
+# Set up and Defining variables -------------------- (**12 points**)
 - Load the the `stringr` package (**2 points**).
 
 - Create a numeric variable `my_age` that is equal to your age (**2 points**, -1 if not numeric)
@@ -19,7 +19,7 @@ For full credit, make sure you match variable names **exactly**. Partial credit 
 - Create a variable `more_minutes_than_hours` that is a boolean value (TRUE/FALSE) (**2 points**)
     - -1 if not calculated using a logical operator
 
-## Working with functions --------------------------- (**50 points**)
+## Working with functions ------------------------------ (**50 points**)
 
 - Write a function called `make_introduction()` that takes in two arguments, `name`, and `age`... (**4 points**)
   - -1 for incorrect spacing
@@ -108,7 +108,7 @@ For full credit, make sure you match variable names **exactly**. Partial credit 
 - Create a vector `higher_numbers` that the values in your `numbers` vector that are higher than `numbers_mean` (again, using vector filtering)
 (**2 points**)
   
-# Lists ------------------------------------------------- (**9 points**)
+# Lists ------------------------------------------- (**9 points**)
 
 - Create a list called `summary_info` in which you'll store summary information about the `numbers` vector above (**3 points**):
   - 1 point each for mean, median, length
