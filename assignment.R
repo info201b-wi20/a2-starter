@@ -31,10 +31,10 @@
 
 # Write a function `make_introduction()` that takes in two args (`name`, `age`) 
 # This function should return a string value that says:
-# "Hello, my name is {name}, and I'm {age} years old".
+# "Hello, my name is {name}, and I'm {age} years old."
 # The values {name} and {age} should take on the values passed into the function 
 # Make sure that proper spacing is used (e.g., you shouldn't have multiple
-# spaces between words, and you should a space after a comma)
+# spaces between words, and you should have a space after a comma)
 
 
 # Create a variable `my_intro` by passing your variables `my_name` and `my_age`
