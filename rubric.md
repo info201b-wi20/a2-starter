@@ -67,7 +67,7 @@ For full credit, make sure you match variable names **exactly**. Partial credit 
   - -2 if it doesn't contain the logic to return _"Neither string contains the letter z"_
   - -2 if it doesn't contain the logic to return _"The strings have the same number of Zs."_
   - -2 if it doesn't contain the logic to return _"The strings have the same number of Zs."_
-  - -2 if it doesn't contain the logic to return the parameter with more Zs.
+  - -2 if it doesn't contain the logic to return the parameter with more Zs (-1 if it returns a modified version of the parameter)
 
 - Create a variable `more_zs` by passing two strings of your choice to your `has_more_zs` function (**2 points**)
 
