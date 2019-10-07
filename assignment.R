@@ -172,5 +172,5 @@
 # (including the mean, median, and length)
 
 
-# Create a vector `summary_1_to_100` by passing a vector of the values one 
+# Create a list `summary_1_to_100` by passing a vector of the values one 
 # through one hundred to your `summarize_vector` function 
