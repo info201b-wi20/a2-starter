@@ -1,5 +1,8 @@
 # A2 foundational skills
 
+# Delete all variables in your workspace. This will make it easier to test your script.
+rm(list = ls())
+
 # Set up and Defining variables ------------------------------------------------
 
 # Load the the `stringr` package 
