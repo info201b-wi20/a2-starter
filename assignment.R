@@ -38,6 +38,8 @@ rm(list = ls())
 # The values {name} and {age} should take on the values passed into the function 
 # Make sure that proper spacing is used (e.g., you shouldn't have multiple
 # spaces between words, and you should have a space after a comma)
+# Hint: google search for "R paste paste0 difference" 
+#       Try reading a few pages to understand how to use each
 
 
 # Create a variable `my_intro` by passing your variables `my_name` and `my_age`
@@ -59,7 +61,7 @@ rm(list = ls())
 
 
 # Create a new variable `capitalized_intro`, which is your `my_intro` variable, 
-# but with each word capitalized. hint: use the stringr function `str_to_title`
+# but with each word capitalized. hint: google the stringr function `str_to_title`
 
 
 # Using the `str_count` function, create a variable `occurrences` that stores
